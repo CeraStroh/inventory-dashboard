@@ -4,7 +4,7 @@ Language: Typescript
 
 - [x] [Chapter 1: Getting Started](https://nextjs.org/learn/dashboard-app/getting-started)
 - [x] [Chapter 2: CSS Styling](https://nextjs.org/learn/dashboard-app/css-styling)
-- [ ] [Chapter 3: Optimizing Fonts & Images](https://nextjs.org/learn/dashboard-app/optimizing-fonts-images)
+- [x] [Chapter 3: Optimizing Fonts & Images](https://nextjs.org/learn/dashboard-app/optimizing-fonts-images)
 - [ ] [Chapter 4: Creating Layouts & Pages](https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages)
 - [ ] [Chapter 5: Navigating Between Pages](https://nextjs.org/learn/dashboard-app/navigating-between-pages)
 - [ ] [Chapter 6: Setting UP Your Database](https://nextjs.org/learn/dashboard-app/setting-up-your-database)

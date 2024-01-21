@@ -8,7 +8,7 @@ Language: Typescript
 - [x] [Chapter 4: Creating Layouts & Pages](https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages)
 - [x] [Chapter 5: Navigating Between Pages](https://nextjs.org/learn/dashboard-app/navigating-between-pages)
 - [x] [Chapter 6: Setting Up Your Database](https://nextjs.org/learn/dashboard-app/setting-up-your-database)
-- [ ] [Chapter 7: Fetching Data](https://nextjs.org/learn/dashboard-app/fetching-data)
+- [x] [Chapter 7: Fetching Data](https://nextjs.org/learn/dashboard-app/fetching-data)
 - [ ] [Chapter 8: Static & Dynamic Rendering](https://nextjs.org/learn/dashboard-app/static-and-dynamic-rendering)
 - [ ] [Chapter 9: Streaming](https://nextjs.org/learn/dashboard-app/streaming)
 - [ ] [Chapter 10: Partial Prerendering (Optional)](https://nextjs.org/learn/dashboard-app/partial-prerendering)

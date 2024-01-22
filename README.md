@@ -11,8 +11,11 @@ Language: Typescript
 - [x] [Chapter 7: Fetching Data](https://nextjs.org/learn/dashboard-app/fetching-data)
 - [x] [Chapter 8: Static & Dynamic Rendering](https://nextjs.org/learn/dashboard-app/static-and-dynamic-rendering)
 - [x] [Chapter 9: Streaming](https://nextjs.org/learn/dashboard-app/streaming)
-- [ ] [Chapter 10: Partial Prerendering (Optional)](https://nextjs.org/learn/dashboard-app/partial-prerendering)
-- [ ] [Chapter 11: Adding Search & Pagination](https://nextjs.org/learn/dashboard-app/adding-search-and-pagination)
+- [x] [Chapter 10: Partial Prerendering (Optional)](https://nextjs.org/learn/dashboard-app/partial-prerendering)
+    - No actual changes to application
+- [x] [Chapter 11: Adding Search & Pagination](https://nextjs.org/learn/dashboard-app/adding-search-and-pagination)
+    - URL search params
+    - Debouncing
 - [ ] [Chapter 12: Mutating Data](https://nextjs.org/learn/dashboard-app/mutating-data)
 - [ ] [Chapter 13: Handling Errors](https://nextjs.org/learn/dashboard-app/error-handling)
 - [ ] [Chapter 14: Improving Accessibility](https://nextjs.org/learn/dashboard-app/improving-accessibility)

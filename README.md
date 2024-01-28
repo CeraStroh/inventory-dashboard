@@ -29,5 +29,10 @@ Language: Typescript
     - Semantic HTML
     - Labelling
     - Focus Outline
-- [ ] [Chapter 15: Adding Authentication](https://nextjs.org/learn/dashboard-app/adding-authentication)
+    - Run `npm run lint` to check for ESLint warnings and errors
+- [x] [Chapter 15: Adding Authentication](https://nextjs.org/learn/dashboard-app/adding-authentication)
+    - Authentication & Authorization
+    - NextAuth.js
+    - Middleware
+    - Providers
 - [ ] [Chapter 16: Adding Metadata](https://nextjs.org/learn/dashboard-app/adding-metadata)

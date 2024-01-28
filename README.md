@@ -24,6 +24,10 @@ Language: Typescript
 - [x] [Chapter 13: Handling Errors](https://nextjs.org/learn/dashboard-app/error-handling)
     - error.tsx
     - not-found.tsx
-- [ ] [Chapter 14: Improving Accessibility](https://nextjs.org/learn/dashboard-app/improving-accessibility)
+- [x] [Chapter 14: Improving Accessibility](https://nextjs.org/learn/dashboard-app/improving-accessibility)
+    - Server-side form validation
+    - Semantic HTML
+    - Labelling
+    - Focus Outline
 - [ ] [Chapter 15: Adding Authentication](https://nextjs.org/learn/dashboard-app/adding-authentication)
 - [ ] [Chapter 16: Adding Metadata](https://nextjs.org/learn/dashboard-app/adding-metadata)

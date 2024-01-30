@@ -35,4 +35,10 @@ Language: Typescript
     - NextAuth.js
     - Middleware
     - Providers
-- [ ] [Chapter 16: Adding Metadata](https://nextjs.org/learn/dashboard-app/adding-metadata)
+- [x] [Chapter 16: Adding Metadata](https://nextjs.org/learn/dashboard-app/adding-metadata)
+    - Metadata for SEO and shareability
+        - Title Metadata
+        - Description Metadata
+        - Keyword Metadata
+        - Open Graph Metadata
+        - Favicon Metadata

@@ -5,8 +5,11 @@ Check out the dashboard at [https://inventory-dashboard-wheat.vercel.app/](https
 Based on the Next.js [Tutorial](https://nextjs.org/learn/dashboard-app)
 
 Language: Typescript, version 5.2.2
+
 npm Version: 10.3.0
+
 NextJS Version: 14.0.2
+
 React Version: 18.2.0
 
 - [x] [Chapter 1: Getting Started](https://nextjs.org/learn/dashboard-app/getting-started)
